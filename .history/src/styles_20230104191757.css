@@ -1,0 +1,5 @@
+:root {
+    --main-bg-colorRed: red;
+  }
+
+.cajita{background: var(--main-bg-colorRed);}
